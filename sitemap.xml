@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://www.auto-veider.it/index.html</loc>
+        <lastmod>2026-03-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="de" href="https://www.auto-veider.it/index.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://www.auto-veider.it/index-it.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.auto-veider.it/index.html"/>
+    </url>
+    <url>
+        <loc>https://www.auto-veider.it/index-it.html</loc>
+        <lastmod>2026-03-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="de" href="https://www.auto-veider.it/index.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://www.auto-veider.it/index-it.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.auto-veider.it/index.html"/>
+    </url>
+    <url>
+        <loc>https://www.auto-veider.it/impressum.html</loc>
+        <lastmod>2026-03-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="de" href="https://www.auto-veider.it/impressum.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://www.auto-veider.it/impressum.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.auto-veider.it/impressum.html"/>
+    </url>
+    <url>
+        <loc>https://www.auto-veider.it/datenschutz.html</loc>
+        <lastmod>2026-03-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="de" href="https://www.auto-veider.it/datenschutz.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://www.auto-veider.it/datenschutz.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.auto-veider.it/datenschutz.html"/>
+    </url>
+</urlset>

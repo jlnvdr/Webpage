@@ -14,6 +14,11 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Prata&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
+    <link rel="canonical" href="https://www.auto-veider.it/impressum.html">
+    <link rel="alternate" hreflang="de" href="https://www.auto-veider.it/impressum.html">
+    <link rel="alternate" hreflang="it" href="https://www.auto-veider.it/impressum.html">
+    <link rel="alternate" hreflang="en" href="https://www.auto-veider.it/impressum.html">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 </head>
 <body class="imprint-page">
     <header class="site-header site-header-static">
@@ -66,13 +71,13 @@
 
             <div class="imprint-grid">
                 <section class="imprint-card">
-                    <h2 data-i18n="imprintCompanyTitle">Angaben gemaess Paragraph 5 TMG</h2>
+                    <h2 data-i18n="imprintCompanyTitle">Pflichtangaben gemaess dem Gesetzesdekret 70/2003</h2>
                     <p>Veider Auto Service<br>Via Valle d'Anterselva, 15/A<br>39030 Rasun-Anterselva BZ<br>Italien</p>
                 </section>
 
                 <section class="imprint-card">
                     <h2 data-i18n="imprintRepresentedTitle">Vertreten durch</h2>
-                    <p>Max Mustermann</p>
+                    <p>Veider Paul</p>
                 </section>
 
                 <section class="imprint-card">
@@ -86,13 +91,17 @@
                 </section>
 
                 <section class="imprint-card">
-                    <h2 data-i18n="imprintVatTitle">Umsatzsteuer</h2>
-                    <p data-i18n="imprintVatText">Umsatzsteuer-Identifikationsnummer gemaess Paragraph 27 a Umsatzsteuergesetz: DE123456789</p>
+                    <h2 data-i18n="imprintVatTitle">Umsatzsteuer und Bankverbindung</h2>
+                    <p data-i18n="imprintVatText">USt-IdNr.: IT01508020219<br>Empfaengerkodex: USAL8PV<br><br>Kontoempfaenger: Veider KG<br>IBAN: IT84T0803558730000303000257<br>SWIFT/BIC-Code RZSBIT21005</p>
+                    <div class="payment-qr-container">
+                        <p style="font-size: 0.9rem; margin-top: 1rem; margin-bottom: 0.5rem; font-weight: 600;" data-i18n="paymentQRLabel">Zahlungs-QR-Code:</p>
+                        <div id="paymentQR" style="display: inline-block; padding: 1rem; background: #fff; border-radius: 8px;"></div>
+                    </div>
                 </section>
 
                 <section class="imprint-card">
                     <h2 data-i18n="imprintResponsibleTitle">Verantwortlich fuer den Inhalt</h2>
-                    <p>Veider Auto Service<br>Via Valle d'Anterselva, 15/A<br>39030 Rasun-Anterselva BZ</p>
+                    <p>VEIDER KG DES VEIDER PAUL & CO.<br>Via Valle d'Anterselva, 15/A<br>39030 Rasun-Anterselva BZ</p>
                 </section>
             </div>
 
@@ -128,5 +137,21 @@
     </footer>
 
     <script src="script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const epcData = 'BCD\n002\n1\nSCT\nRZSBIT21005\nVeider KG\nIT84T0803558730000303000257\n\n\n';
+            const qrElement = document.getElementById('paymentQR');
+            if (qrElement && typeof QRCode !== 'undefined') {
+                new QRCode(qrElement, {
+                    text: epcData,
+                    width: 180,
+                    height: 180,
+                    colorDark: '#22201d',
+                    colorLight: '#ffffff',
+                    correctLevel: QRCode.CorrectLevel.H
+                });
+            }
+        });
+    </script>
 </body>
 </html>

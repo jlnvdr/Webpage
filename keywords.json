@@ -1,0 +1,503 @@
+{
+  "meta": {
+    "version": "1.0",
+    "lastUpdated": "2026-03-31",
+    "description": "Multilingual SEO keywords for Veider Auto Service",
+    "languages": ["de", "it", "en"]
+  },
+  "keywords": {
+    "brand": {
+      "de": ["auto veider", "veider auto service", "veider rasun"],
+      "it": ["auto veider", "veider auto service", "veider rasun-anterselva"],
+      "en": ["auto veider", "veider auto service", "veider rasun"]
+    },
+    "location": {
+      "de": [
+        "kfz werkstatt in der nähe",
+        "kfz werkstatt rasun-anterselva",
+        "mechaniker bruneck",
+        "autoersatzteile in der nähe",
+        "werkstatt in rasen-antholz",
+        "auto reparatur bruneck",
+        "autowerkstatt pustertal",
+        "autowerkstatt antholzertal",
+        "auto service südtirol",
+        "kfz werkstatt südtirol",
+        "kfz werkstatt provinz bozen",
+        "mechaniker im pustertal",
+        "werkstatt rasen",
+        "werkstatt antholz",
+        "kfz werkstatt bruneck nähe",
+        "autowerkstatt mit 24h waschanlage"
+      ],
+      "it": [
+        "officina auto qui vicino",
+        "officina auto rasun-anterselva",
+        "meccanico brunico",
+        "ricambi auto qui vicino",
+        "officina a brunico",
+        "riparazioni auto brunico",
+        "officina auto pustertal",
+        "officina auto val di tures",
+        "officina auto bolzano",
+        "officina auto trentino alto adige",
+        "meccanico valle",
+        "officina con autolavaggio",
+        "autofficina rasun"
+      ],
+      "en": [
+        "auto repair shop nearby",
+        "auto repair shop rasun-anterselva",
+        "mechanic bruneck",
+        "car spare parts nearby",
+        "auto shop bruneck",
+        "auto repair pustertal",
+        "car service south tyrol",
+        "mechanic valdaora",
+        "auto repair shop with car wash"
+      ]
+    },
+    "problems": {
+      "de": [
+        "auto startet nicht",
+        "motorprobleme",
+        "motorstörung",
+        "bremsgeräusche",
+        "bremsen quietschen",
+        "gasgeruch",
+        "motoröl verlust",
+        "kühlmittel verlust",
+        "batterie tot",
+        "batterie schwach",
+        "licht funktioniert nicht",
+        "scheinwerfer defekt",
+        "reifendruck",
+        "reifenschaden",
+        "felgenschaden",
+        "rost",
+        "korrosion",
+        "motor klopfen",
+        "ungewöhnliches geräusch",
+        "vibrationen",
+        "lenkung schwergängig",
+        "bremspedal hart",
+        "kupplungsprobleme",
+        "gang lässt sich nicht einlegen",
+        "checkenginge leuchtet",
+        "motorleuchte an"
+      ],
+      "it": [
+        "auto non parte",
+        "problemi motore",
+        "guasto motore",
+        "rumori freni",
+        "freni che sfrigolano",
+        "odore di benzina",
+        "perdita olio motore",
+        "perdita liquido di raffreddamento",
+        "batteria scarica",
+        "batteria debole",
+        "luci non funzionano",
+        "fai difetti",
+        "pressione pneumatici",
+        "danno pneumatico",
+        "danno cerchio",
+        "ruggine",
+        "corrosione",
+        "motore che batte",
+        "rumore strano",
+        "vibrazioni",
+        "sterzo duro",
+        "pedale freno duro",
+        "problemi frizione",
+        "marcia non entra",
+        "spia motore accesa"
+      ],
+      "en": [
+        "car won't start",
+        "engine problems",
+        "engine failure",
+        "brake noise",
+        "squeaky brakes",
+        "gas smell",
+        "oil leak",
+        "coolant leak",
+        "dead battery",
+        "weak battery",
+        "lights not working",
+        "headlight broken",
+        "tire pressure",
+        "tire damage",
+        "wheel damage",
+        "rust",
+        "corrosion",
+        "engine knocking",
+        "strange noise",
+        "vibrations",
+        "stiff steering",
+        "hard brake pedal",
+        "clutch problems",
+        "gear won't engage",
+        "check engine light"
+      ]
+    },
+    "vehicles": {
+      "de": [
+        "audi reparatur",
+        "vw reparatur",
+        "mercedes reparatur",
+        "bmw reparatur",
+        "opel reparatur",
+        "fiat reparatur",
+        "renault reparatur",
+        "peugeot reparatur",
+        "ford reparatur",
+        "toyota reparatur",
+        "volvo reparatur",
+        "skoda reparatur",
+        "personenwagen",
+        "suv reparatur",
+        "transporter reparatur",
+        "nutzfahrzeuge",
+        "kleinwagen",
+        "kombi reparatur",
+        "limousine reparatur"
+      ],
+      "it": [
+        "riparazione audi",
+        "riparazione vw",
+        "riparazione mercedes",
+        "riparazione bmw",
+        "riparazione opel",
+        "riparazione fiat",
+        "riparazione renault",
+        "riparazione peugeot",
+        "riparazione ford",
+        "riparazione toyota",
+        "auto compatte",
+        "suv",
+        "monovolume",
+        "giardinetta"
+      ],
+      "en": [
+        "audi repair",
+        "vw repair",
+        "mercedes repair",
+        "bmw repair",
+        "opel repair",
+        "fiat repair",
+        "renault repair",
+        "ford repair",
+        "toyota repair",
+        "compact car",
+        "suv repair",
+        "van repair"
+      ]
+    },
+    "seasonal": {
+      "de": [
+        "winterreifen",
+        "sommerreifen",
+        "wintercheck",
+        "sommercheck",
+        "schneekettenservice",
+        "reifeneinlagerung",
+        "reifenlagerung",
+        "reifenwechsel frühjahr",
+        "reifenwechsel herbst",
+        "auto winterfest",
+        "arbeitskleidung bereitschaft",
+        "sommerreifen kaufen",
+        "winterreifen kaufen"
+      ],
+      "it": [
+        "pneumatici invernali",
+        "pneumatici estivi",
+        "controllo invernale",
+        "controllo estivo",
+        "catene da neve",
+        "stoccaggio pneumatici",
+        "cambio gomme primavera",
+        "cambio gomme autunno",
+        "preparazione invernale",
+        "acquisto pneumatici invernali"
+      ],
+      "en": [
+        "winter tires",
+        "summer tires",
+        "winter check",
+        "summer check",
+        "snow chains",
+        "tire storage",
+        "spring tire change",
+        "fall tire change",
+        "prepare for winter",
+        "buy winter tires"
+      ]
+    },
+    "emergency": {
+      "de": [
+        "pannendienst",
+        "abschleppdienst",
+        "notfall werkstatt",
+        "schnelle reparatur",
+        "reparatur auf rechnung",
+        "reparatur ratenzahlung",
+        "sofortige reparatur",
+        "express reparatur"
+      ],
+      "it": [
+        "servizio rimorchio",
+        "servizio emergenza",
+        "riparazione urgente",
+        "riparazione veloce",
+        "pagamento rateale",
+        "finanziamento riparazione"
+      ],
+      "en": [
+        "towing service",
+        "breakdown service",
+        "emergency repair",
+        "quick repair",
+        "payment plan",
+        "express service"
+      ]
+    },
+    "extended_services": {
+      "de": [
+        "inspektionstermin",
+        "wartungstermin",
+        "hauptuntersuchung vorbereitung",
+        "hu vorbereitung",
+        "verkehrstauglichekeitsprüfung",
+        "abgasuntersuchung",
+        "zu plakette",
+        "autopflege",
+        "fahrzeugaufbereitung",
+        "autowäsche",
+        "innenreinigung",
+        "außenreinigung",
+        "dichtungsprüfung",
+        "undichtigkeitsprüfung",
+        "abgaspüfung",
+        "tuv vorbereitung",
+        "dekra vorbereitung",
+        "verwertungsnachweis",
+        "verschrottung",
+        "recycling"
+      ],
+      "it": [
+        "prenotazione ispezione",
+        "prenotazione manutenzione",
+        "preparazione manutenzione",
+        "preparazione ispezione",
+        "controllo emissioni",
+        "pulizia auto",
+        "manutenzione auto",
+        "diagnostica auto",
+        "ripristino auto",
+        "detailing auto"
+      ],
+      "en": [
+        "inspection appointment",
+        "maintenance appointment",
+        "inspection preparation",
+        "vehicle inspection",
+        "emissions test",
+        "car cleaning",
+        "car polishing",
+        "vehicle detailing",
+        "car restoration",
+        "vehicle diagnostics"
+      ]
+    },
+    "services": {
+      "de": ["getriebespühlung", "schneeketten kaufen", "auto reparatur", "fahrzeugwartung", "kfz inspektion", "diagnose", "ölwechsel", "bremsenservice", "reifenservice", "selbstbedienungswaschanlage 24/7"],
+      "it": ["spurgo cambio", "catene da neve", "riparazione auto", "manutenzione veicoli", "ispezione auto", "diagnosi", "cambio olio", "servizio freni", "servizio pneumatici", "autolavaggio self-service 24/7"],
+      "en": ["transmission fluid flush", "snow chains", "auto repair", "vehicle maintenance", "auto inspection", "diagnostics", "oil change", "brake service", "tire service", "self-service car wash 24/7"]
+    },
+    "mechanic": {
+      "de": ["meccanico brunico", "meccanico qui vicino", "kfz mechaniker", "automechaniker", "meister mechaniker"],
+      "it": ["meccanico brunico", "meccanico qui vicino", "meccanico auto", "maitre"],
+      "en": ["mechanic brunico", "mechanic nearby", "auto mechanic", "car mechanic", "master mechanic"]
+    },
+    "top50_general": {
+      "de": [
+        "ölwechsel", "reifenwechsel", "bremsbeläge", "autolack", "bremsenprüfung",
+        "inspektionen", "zahnriemen", "keilriemen", "bremsentrommel", "bremsscheiben",
+        "scheibenbremsen", "stossdämpfer", "federung", "fahrwerkscheck", "radlager",
+        "achsvermessung", "lackschutz", "versiegelung", "autopolster", "innenreinigung",
+        "klimaanlage", "klimaanlage wartung", "klimaanlage service", "kühlmittel", "motoröl",
+        "hydrauliköl", "bremsflüssigkeit", "scheibenreiniger", "luftfilter", "ölfilter",
+        "pollenfilter", "batterie", "batteriereservekapazität", "elektroprüfung", "zündanlage",
+        "vergaser", "einspritztechnik", "abgasanlage", "schalldämpfer", "endtopf",
+        "auspuff", "katalysator", "fahrzeugelektrik", "beleuchtung", "scheinwerfer",
+        "nebel", "rücklichter", "blinkanlage", "wischblätter", "scheibenreinigungssystem",
+        "zustand überprüfung", "verkehrstauglichkeit", "hauptuntersuchung", "abgasuntersuchung",
+        "fehlerscan", "motordiagnose", "elektronische steuerung", "kfz elektronik",
+        "lichttest", "prüfprotokoll", "inspektionsprotokoll", "wartungsprotokoll",
+        "garantie", "gewährleistung", "reparaturrechnung", "kostenvoranschlag",
+        "arbeitsplan", "fahrzeugannahme", "reparaturzeitschätzung", "kundendienst",
+        "telefondienst", "express service", "wunschtermin", "werkstatt öffnungszeiten",
+        "werkstatt adresse", "anfahrt", "anfahrtsweg", "parkplatz", "wartebereich"
+      ],
+      "it": [
+        "cambio olio", "cambio pneumatici", "pastiglie freni", "vernice auto", "controllo freni",
+        "ispezioni", "cinghia di distribuzione", "cinghia serpentina", "tamburo freno", "dischi freno",
+        "freni a disco", "ammortizzatori", "sospensioni", "controllo telaio", "cuscinetti ruota",
+        "allineamento assi", "protezione vernice", "sigillamento", "tappezzeria auto", "pulizia interna",
+        "condizionatore", "manutenzione condizionatore", "servizio condizionatore", "liquido refrigerante", "olio motore",
+        "olio idraulico", "liquido freni", "detergente parabrezza", "filtro aria", "filtro olio",
+        "filtro antipolline", "batteria", "capacità riserva batteria", "controllo elettrico", "impianto accensione",
+        "carburatore", "tecnologia iniezione", "impianto scarico", "marmitta", "tubo di scarico",
+        "catalizzatore", "impianto elettrico", "illuminazione", "fari", "fendinebbia",
+        "luci posteriori", "impianto segnalazione", "spazzole tergicristallo", "sistema pulizia parabrezza", "verifica condizioni",
+        "idoneità circolazione", "revisione", "controllo emissioni", "diagnosi motore", "scansione errori",
+        "controllo elettronica", "test illuminazione", "certificato revisione", "garanzia", "preventivo",
+        "piano di lavoro", "accettazione veicolo", "stima tempi riparazione", "servizio clientela",
+        "prenotazione", "orario di apertura", "indirizzo officina", "raggiungibilità", "parcheggio"
+      ],
+      "en": [
+        "oil change", "tire change", "brake pads", "car paint", "brake inspection",
+        "inspections", "timing belt", "serpentine belt", "brake drum", "brake discs",
+        "disc brakes", "shock absorbers", "suspension", "chassis check", "wheel bearings",
+        "wheel alignment", "paint protection", "sealant", "car upholstery", "interior cleaning",
+        "air conditioner", "air conditioner maintenance", "air conditioner service", "coolant", "engine oil",
+        "hydraulic oil", "brake fluid", "windshield cleaner", "air filter", "oil filter",
+        "pollen filter", "battery", "battery reserve capacity", "electrical inspection", "ignition system",
+        "carburetor", "injection technology", "exhaust system", "muffler", "exhaust pipe",
+        "catalytic converter", "electrical system", "lighting", "headlights", "fog lights",
+        "tail lights", "signaling system", "wiper blades", "windshield cleaning system", "condition check",
+        "roadworthiness", "inspection", "emissions test", "engine diagnostic", "error scan",
+        "electronic control", "light test", "inspection certificate", "warranty", "quotation",
+        "work plan", "vehicle intake", "repair time estimate", "customer service",
+        "booking", "opening hours", "workshop address", "directions", "parking"
+      ]
+    },
+    "specialty": {
+      "de": ["selbstbedienungswaschanlage", "24/7 waschanlage", "24h waschanlage", "selbstwaschanlage", "autowaschanlage rund um die uhr"],
+      "it": ["autolavaggio self-service", "autolavaggio 24/7", "autolavaggio 24 ore", "lavaggio auto fai-da-te"],
+      "en": ["self-service car wash", "24/7 car wash", "24-hour car wash", "self-wash station"]
+    },
+    "nearby_towns": {
+      "de": [
+        "auto werkstatt niederrasen",
+        "auto service rasen-antholz",
+        "kfz werkstatt oberrasen",
+        "auto reparatur antholz",
+        "werkstatt valdaora",
+        "kfz service kiens",
+        "auto reparatur gais",
+        "werkstatt percha",
+        "auto service toblach",
+        "kfz werkstatt sexten",
+        "auto werkstatt prags",
+        "kfz reparatur pragser wildsee",
+        "auto service niederdorf",
+        "werkstatt welsberg",
+        "kfz werkstatt olang",
+        "auto reparatur geiselsberg"
+      ],
+      "it": [
+        "officina auto niederrasen",
+        "officina rasen-antholz",
+        "officina oberrasen",
+        "officina antholz",
+        "officina valdaora",
+        "officina kiens",
+        "officina gais",
+        "officina percha",
+        "officina toblach",
+        "officina sesto",
+        "officina prags",
+        "officina lago di braies",
+        "officina villabassa",
+        "officina monguelfo",
+        "officina valdaora",
+        "officina villabassa"
+      ],
+      "en": [
+        "auto repair niederrasen",
+        "car service rasen-antholz",
+        "auto shop oberrasen",
+        "car repair antholz",
+        "mechanic valdaora",
+        "car service kiens",
+        "auto repair gais",
+        "car repair percha",
+        "auto service toblach",
+        "workshop sexten",
+        "auto repair prags",
+        "car service pragser wildsee",
+        "workshop niederdorf",
+        "car repair welsberg",
+        "auto service olang",
+        "mechanic geiselsberg"
+      ]
+    },
+    "dolomites": {
+      "de": [
+        "auto werkstatt dolomiten",
+        "kfz service dolomiten",
+        "auto reparatur dolomiten",
+        "werkstatt dolomitental",
+        "alpine kfz werkstatt",
+        "autowerkstatt antholz",
+        "bergwerkstatt",
+        "alpen autowerkstatt",
+        "touristenwerkstatt",
+        "urlauberwerkstatt",
+        "hochgebirge auto service",
+        "schneegebiet werkstatt"
+      ],
+      "it": [
+        "officina auto dolomiti",
+        "servizio auto dolomiti",
+        "riparazione auto dolomiti",
+        "officina alpina",
+        "officina montagna",
+        "officina turisti",
+        "officina vacanzieri",
+        "officina alpi"
+      ],
+      "en": [
+        "auto repair dolomites",
+        "car service dolomites",
+        "auto workshop dolomites",
+        "alpine auto service",
+        "dolomite mountain car shop",
+        "mountain workshop",
+        "tourist car service",
+        "mountain car repair"
+      ]
+    },
+    "primary": {
+      "de": ["auto veider", "veider rasun", "autoersatzteile in der nähe", "getriebespühlung", "kfz werkstatt in der nähe", "mechaniker bruneck", "schneeketten kaufen"],
+      "it": ["auto veider", "veider rasun-anterselva", "ricambi auto qui vicino", "spurgo cambio", "officina auto qui vicino", "meccanico brunico", "catene da neve"],
+      "en": ["auto veider", "veider rasun-anterselva", "spare parts nearby", "transmission flush", "auto repair shop nearby", "mechanic bruneck", "snow chains"]
+    }
+  },
+  "seo": {
+    "titleKeywords": {
+      "de": "Auto Veider | KFZ Werkstatt Rasun-Anterselva - Reparatur & Service",
+      "it": "Auto Veider Bolzano | Officina Auto Rasun-Anterselva - Riparazione & Servizio",
+      "en": "Auto Veider | Auto Repair Shop Rasun-Anterselva - Repair & Service"
+    },
+    "descriptionKeywords": {
+      "de": "Getriebespühlung, Schneeketten, Mechaniker in der Nähe. Professionelle KFZ Reparatur & Inspektion in Rasun-Anterselva. Auto Ersatzteile & Service.",
+      "it": "Spurgo cambio, Catene da neve, Meccanico qui vicino. Riparazione auto professionale & Ispezione a Rasun-Anterselva. Ricambi auto & Servizio.",
+      "en": "Transmission flush, Snow chains, Mechanic nearby. Professional auto repair & inspection in Rasun-Anterselva. Car parts & service."
+    }
+  },
+  "usage": {
+    "notes": [
+      "Verwende diese Keywords in Meta-Tags, Headings und Content für jede Sprache",
+      "Primary-Keywords: Die 7 wichtigsten Keywords für Focus-Optimierung",
+      "Top 50 General: Universelle Werkstatt-Keywords für Fachwörter und Dienste",
+      "Specialty: Standort-Spezialitäten (Selbstbedienungswaschanlage 24/7) prominent erwähnen",
+      "Lokale Keywords: Verwende Ortsnamen (Bruneck, Rasen-Antholz, Rasun-Anterselva, Pustertal)",
+      "WICHTIG: Die 24/7 Waschanlage ist ein großes Differenzierungsmerkmal - in <h1>, <h2>, Meta-Description integrieren",
+      "Aktualisiere diese Datei bei Bedarf und synchronisiere mit allen HTML-Dateien"
+    ]
+  }
+}
