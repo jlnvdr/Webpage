@@ -377,12 +377,27 @@ iframe {
     box-shadow: var(--shadow);
 }
 
-.intro-number {
-    display: block;
+.intro-head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.55rem;
     margin-bottom: 0.75rem;
+}
+
+.intro-number {
+    display: inline;
     font-size: 2rem;
     font-weight: 700;
     color: var(--accent);
+}
+
+.intro-label {
+    font-family: "Rajdhani", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-primary);
 }
 
 .section {
